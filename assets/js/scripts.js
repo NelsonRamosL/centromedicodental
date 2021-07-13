@@ -35,7 +35,7 @@ $(document).ready(function () { // Inicio de jquerry boostrap
             <th>Hora</th>
             <th>Especialista</th>
             <th>Paciente</th>
-            <th style="wight:70px;">Rut</th>
+            <th>Rut</th>
             <th>Prevision</th>
             </tr>
             </thead>
